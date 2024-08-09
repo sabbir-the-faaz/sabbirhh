@@ -1,4 +1,4 @@
-Albert Einstein was a theoretical physicist born on March 14, 1879, in Ulm, in the Kingdom of Württemberg in the German Empire. He is best known for developing the theory of relativity, one of the two pillars of modern physics (the other being quantum mechanics). His equation \(E=mc^2\), which shows that energy and mass are interchangeable, is one of the most famous equations in the world.
+I was born at 10 pm, wednesday on  26 November 1999 
 
 ### Early Life and Education
 Einstein grew up in a secular Jewish family. He showed an early interest in science and mathematics but struggled with the rigid school system. He eventually attended the Swiss Federal Polytechnic in Zurich, where he graduated in 1900.
